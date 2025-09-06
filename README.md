@@ -13,7 +13,7 @@ Features
 	•	Reset the game with a single button click.
 	•	Simple and intuitive interface.
 
-~~[Screeshot]: (Images/Screenshot 2025-09-06 145748.png)
+~~[Screeshot]: (https://github.com/w0mmd/XO-Game-Desktop/blob/main/Images/Screenshot 2025-09-06 145748.png)
 ⸻
 
 Requirements
